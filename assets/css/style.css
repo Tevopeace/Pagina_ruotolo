@@ -1,0 +1,17 @@
+.card-title{
+    width: 900px;
+    height: 100px;
+    color: #0a53be;
+}
+.fondo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: max-content;
+    height: max-content;
+    overflow: hidden;
+    z-index: -1;
+}
+.item2{
+    margin-top: 65px;
+}
